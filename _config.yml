@@ -9,9 +9,9 @@ locale:       "en"
 # About/contact
 author:
 #name:       Author name
-name:       iotac
+    name:       iotac
 #url:        http://yourhomepage.com 
-url:        https://blog.iotac.xyz/
+    url:        https://blog.iotac.xyz/
 
 # Gems
 gems:
