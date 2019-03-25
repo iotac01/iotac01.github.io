@@ -1,14 +1,17 @@
 # Setup
-title:        Project or Site name
-tagline:      A responsive theme for your project on GitHub Pages
+#title:        Project or Site name
+title:        iotac's blog
+#tagline:      A responsive theme for your project on GitHub Pages
 baseurl:      ""
 paginate:     1
 locale:       "en"
 
 # About/contact
 author:
-  name:       Author name
-  url:        http://yourhomepage.com 
+#name:       Author name
+name:       iotac
+#url:        http://yourhomepage.com 
+url:        https://blog.iotac.xyz/
 
 # Gems
 gems:
