@@ -4,4 +4,4 @@ _site
 Gemfile.lock
 .DS_Store
 .directory
-local_server
+_local_server
